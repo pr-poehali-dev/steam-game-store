@@ -269,15 +269,9 @@ export default function Index() {
           <h2 className="text-2xl font-orbitron font-bold text-primary mb-4">
             STEAM GAMES STORE
           </h2>
-          <p className="text-muted-foreground mb-4 font-roboto">
+          <p className="text-muted-foreground font-roboto">
             Ваш проводник в мире игр
           </p>
-          <div className="flex justify-center gap-6">
-            <Icon name="Facebook" size={24} className="text-muted-foreground hover:text-primary transition-colors cursor-pointer" />
-            <Icon name="Twitter" size={24} className="text-muted-foreground hover:text-primary transition-colors cursor-pointer" />
-            <Icon name="Instagram" size={24} className="text-muted-foreground hover:text-primary transition-colors cursor-pointer" />
-            <Icon name="Youtube" size={24} className="text-muted-foreground hover:text-primary transition-colors cursor-pointer" />
-          </div>
         </div>
       </footer>
     </div>
